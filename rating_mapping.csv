@@ -1,0 +1,811 @@
+Level of Difficulty,Scientific Domain,Model and Prompt Design,Rater ID,Fluency,Scientific Precision,Relatedness,Validity,Willingness to adopt,Inspirational effect
+Elementary,Biology,gpt-3-0-vanila,E5,5,4,4,4,O,O
+Elementary,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Biology,gpt-3-0-vanila,E5,5,1,1,1,X,X
+Elementary,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Biology,gpt-3-0-vanila,E5,5,2,2,2,X,X
+Intermediate,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-0-vanila,E5,5,3,3,3,X,O
+Advanced,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-0-vanila,E5,5,3,1,2,O,O
+Advanced,Biology,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-0-vanila,E5,4,5,1,4,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E5,5,5,5,2,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E5,5,1,4,1,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-0-vanila,E5,5,4,5,4,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-0-vanila,E5,5,1,3,2,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E5,5,4,5,4,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E5,5,4,5,4,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E5,1,1,1,1,1,X
+Elementary,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-augmented,E5,5,4,5,4,O,O
+Elementary,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-10-augmented,E5,5,3,4,4,O,O
+Intermediate,Biology,gpt-3-10-augmented,E5,3,3,4,4,O,O
+Intermediate,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-augmented,E5,5,4,4,3,X,O
+Advanced,Biology,gpt-3-10-augmented,E5,5,4,4,4,X,O
+Advanced,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-augmented,E5,5,4,4,3,X,O
+Advanced,Biology,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-augmented,E5,5,5,3,3,O,O
+Intermediate,Chemistry,gpt-3-10-augmented,E5,5,2,4,2,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-augmented,E5,5,2,4,2,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-augmented,E5,5,2,4,2,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-augmented,E5,5,5,4,3,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E5,4,3,3,3,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-augmented,E5,5,5,4,4,O,O
+Elementary,Earth Science,gpt-3-10-augmented,E5,4,4,4,3,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E5,5,3,3,3,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E5,4,3,4,3,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-10-augmented,E5,2,3,3,3,O,O
+Intermediate,Earth Science,gpt-3-10-augmented,E5,3,3,3,2,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-augmented,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-augmented,E5,3,2,2,2,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E5,3,2,2,2,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E5,4,3,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E5,5,4,3,3,O,O
+Elementary,Biology,gpt-3-10-vanila,E5,5,5,5,4,O,O
+Elementary,Biology,gpt-3-10-vanila,E5,5,4,5,5,O,O
+Elementary,Biology,gpt-3-10-vanila,E5,3,3,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E5,4,4,4,4,X,X
+Intermediate,Biology,gpt-3-10-vanila,E5,5,5,4,3,O,O
+Intermediate,Biology,gpt-3-10-vanila,E5,4,3,4,3,O,O
+Intermediate,Biology,gpt-3-10-vanila,E5,5,4,5,4,O,O
+Intermediate,Biology,gpt-3-10-vanila,E5,3,4,4,3,X,X
+Intermediate,Biology,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E5,5,5,4,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E5,5,5,2,2,O,O
+Advanced,Biology,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E5,5,5,4,3,O,O
+Advanced,Biology,gpt-3-10-vanila,E5,5,5,4,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E5,5,5,4,4,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E5,5,2,3,3,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E5,5,4,5,4,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E5,5,4,4,4,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-10-vanila,E5,5,4,4,4,O,O
+Intermediate,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-10-vanila,E5,5,3,4,3,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E5,3,3,2,2,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E5,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E5,5,4,4,4,O,O
+Elementary,Biology,gpt-3-0-vanila,E1,5,5,4,4,X,O
+Elementary,Biology,gpt-3-0-vanila,E1,5,2,3,2,X,X
+Elementary,Biology,gpt-3-0-vanila,E1,5,2,1,1,X,X
+Elementary,Biology,gpt-3-0-vanila,E1,5,3,2,2,X,X
+Elementary,Biology,gpt-3-0-vanila,E1,5,5,3,3,X,X
+Intermediate,Biology,gpt-3-0-vanila,E1,5,3,2,2,X,O
+Intermediate,Biology,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E1,5,4,4,4,O,X
+Intermediate,Biology,gpt-3-0-vanila,E1,5,4,4,4,X,X
+Intermediate,Biology,gpt-3-0-vanila,E1,4,3,3,3,X,X
+Advanced,Biology,gpt-3-0-vanila,E1,5,4,4,4,X,O
+Advanced,Biology,gpt-3-0-vanila,E1,5,3,3,3,X,O
+Advanced,Biology,gpt-3-0-vanila,E1,5,5,3,3,X,X
+Advanced,Biology,gpt-3-0-vanila,E1,4,4,4,4,X,X
+Advanced,Biology,gpt-3-0-vanila,E1,4,3,2,3,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E1,5,3,5,3,X,O
+Elementary,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-0-vanila,E1,5,2,2,2,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E1,5,3,3,3,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E1,5,3,3,3,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Advanced,Chemistry,gpt-3-0-vanila,E1,5,4,4,4,X,O
+Advanced,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E1,5,3,3,3,X,X
+Advanced,Chemistry,gpt-3-0-vanila,E1,5,3,3,3,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E1,5,2,2,2,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E1,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E1,5,1,1,1,X,X
+Advanced,Earth Science,gpt-3-0-vanila,E1,5,3,4,3,X,O
+Advanced,Earth Science,gpt-3-0-vanila,E1,5,2,3,2,X,X
+Advanced,Earth Science,gpt-3-0-vanila,E1,5,3,4,3,X,O
+Advanced,Earth Science,gpt-3-0-vanila,E1,5,2,2,2,X,X
+Advanced,Earth Science,gpt-3-0-vanila,E1,5,4,4,4,X,X
+Elementary,Biology,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-augmented,E1,5,3,3,3,X,X
+Elementary,Biology,gpt-3-10-augmented,E1,5,2,2,2,X,O
+Elementary,Biology,gpt-3-10-augmented,E1,5,2,2,2,X,X
+Elementary,Biology,gpt-3-10-augmented,E1,5,5,4,5,O,X
+Intermediate,Biology,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Intermediate,Biology,gpt-3-10-augmented,E1,5,3,2,2,X,X
+Intermediate,Biology,gpt-3-10-augmented,E1,5,5,4,4,X,O
+Intermediate,Biology,gpt-3-10-augmented,E1,5,2,2,2,X,X
+Intermediate,Biology,gpt-3-10-augmented,E1,5,2,2,2,X,X
+Advanced,Biology,gpt-3-10-augmented,E1,5,3,2,2,X,X
+Advanced,Biology,gpt-3-10-augmented,E1,5,3,2,2,X,X
+Advanced,Biology,gpt-3-10-augmented,E1,5,3,4,3,X,O
+Advanced,Biology,gpt-3-10-augmented,E1,5,3,2,2,X,X
+Advanced,Biology,gpt-3-10-augmented,E1,5,3,4,3,X,X
+Elementary,Chemistry,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E1,5,4,4,4,X,O
+Elementary,Chemistry,gpt-3-10-augmented,E1,5,2,3,2,X,X
+Elementary,Chemistry,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E1,5,3,3,3,X,O
+Intermediate,Chemistry,gpt-3-10-augmented,E1,5,4,4,4,X,O
+Intermediate,Chemistry,gpt-3-10-augmented,E1,5,4,4,4,X,O
+Intermediate,Chemistry,gpt-3-10-augmented,E1,5,3,4,3,X,X
+Intermediate,Chemistry,gpt-3-10-augmented,E1,5,2,3,3,X,X
+Intermediate,Chemistry,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E1,4,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-augmented,E1,5,3,3,3,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-augmented,E1,5,3,3,3,X,X
+Advanced,Chemistry,gpt-3-10-augmented,E1,5,4,4,4,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E1,5,2,3,2,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E1,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-augmented,E1,5,2,2,2,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E1,5,3,2,2,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E1,5,1,1,1,X,X
+Elementary,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E1,5,4,4,3,X,X
+Intermediate,Biology,gpt-3-10-vanila,E1,4,5,5,5,O,O
+Intermediate,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Intermediate,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Intermediate,Biology,gpt-3-10-vanila,E1,5,4,4,4,X,X
+Intermediate,Biology,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,O
+Advanced,Biology,gpt-3-10-vanila,E1,5,5,2,2,X,X
+Advanced,Biology,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Advanced,Biology,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Chemistry,gpt-3-10-vanila,E1,5,3,4,3,X,X
+Elementary,Chemistry,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E1,5,4,4,4,X,X
+Elementary,Chemistry,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Chemistry,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E1,5,1,1,1,X,X
+Intermediate,Chemistry,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Intermediate,Chemistry,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E1,5,3,2,2,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E1,5,3,2,2,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E1,5,2,2,2,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E1,5,1,1,1,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E1,5,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Elementary,Earth Science,gpt-3-10-vanila,E1,5,1,2,1,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E1,5,2,2,2,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E1,5,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E1,5,3,3,3,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E1,5,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E1,5,4,4,4,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E1,5,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E1,5,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-vanila,E1,5,5,5,5,O,X
+Advanced,Earth Science,gpt-3-10-vanila,E1,5,4,4,4,X,X
+Advanced,Earth Science,gpt-3-10-vanila,E1,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E1,5,3,3,3,X,O
+Advanced,Earth Science,gpt-3-10-vanila,E1,5,3,3,3,X,O
+Elementary,Biology,gpt-3-0-vanila,E2,3,4,4,4,X,O
+Elementary,Biology,gpt-3-0-vanila,E2,1,3,2,1,X,X
+Elementary,Biology,gpt-3-0-vanila,E2,4,4,2,2,X,X
+Elementary,Biology,gpt-3-0-vanila,E2,4,5,5,5,O,O
+Elementary,Biology,gpt-3-0-vanila,E2,1,1,1,1,X,X
+Intermediate,Biology,gpt-3-0-vanila,E2,4,5,5,5,O,X
+Intermediate,Biology,gpt-3-0-vanila,E2,4,5,4,4,O,X
+Intermediate,Biology,gpt-3-0-vanila,E2,2,1,2,2,X,X
+Intermediate,Biology,gpt-3-0-vanila,E2,4,5,5,5,O,O
+Intermediate,Biology,gpt-3-0-vanila,E2,2,2,1,1,X,X
+Advanced,Biology,gpt-3-0-vanila,E2,1,1,1,1,X,X
+Advanced,Biology,gpt-3-0-vanila,E2,5,5,5,5,O,O
+Advanced,Biology,gpt-3-0-vanila,E2,1,1,1,1,X,X
+Advanced,Biology,gpt-3-0-vanila,E2,5,5,5,5,O,X
+Advanced,Biology,gpt-3-0-vanila,E2,1,2,1,1,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E2,4,3,3,2,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E2,4,3,3,2,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E2,5,5,5,5,O,X
+Elementary,Chemistry,gpt-3-0-vanila,E2,4,3,3,2,X,X
+Elementary,Chemistry,gpt-3-0-vanila,E2,4,3,2,2,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E2,4,3,3,3,O,X
+Intermediate,Chemistry,gpt-3-0-vanila,E2,4,3,2,2,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E2,3,2,2,1,X,X
+Intermediate,Chemistry,gpt-3-0-vanila,E2,5,5,5,5,O,O
+Intermediate,Chemistry,gpt-3-0-vanila,E2,3,2,2,2,X,X
+Advanced,Chemistry,gpt-3-0-vanila,E2,5,5,5,5,O,X
+Advanced,Chemistry,gpt-3-0-vanila,E2,3,2,2,1,X,X
+Advanced,Chemistry,gpt-3-0-vanila,E2,4,4,3,3,X,X
+Advanced,Chemistry,gpt-3-0-vanila,E2,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-0-vanila,E2,5,5,5,5,O,O
+Elementary,Physics,gpt-3-0-vanila,E2,5,4,4,3,X,X
+Elementary,Physics,gpt-3-0-vanila,E2,1,2,4,2,X,X
+Elementary,Physics,gpt-3-0-vanila,E2,1,1,2,1,X,X
+Elementary,Physics,gpt-3-0-vanila,E2,2,3,4,2,X,X
+Elementary,Physics,gpt-3-0-vanila,E2,5,5,5,5,O,O
+Intermediate,Physics,gpt-3-0-vanila,E2,1,4,1,2,X,X
+Intermediate,Physics,gpt-3-0-vanila,E2,1,3,1,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E2,1,1,1,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E2,1,3,2,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E2,1,4,3,2,X,X
+Advanced,Physics,gpt-3-0-vanila,E2,1,3,2,2,X,X
+Advanced,Physics,gpt-3-0-vanila,E2,4,5,4,5,O,O
+Advanced,Physics,gpt-3-0-vanila,E2,1,3,2,2,X,X
+Advanced,Physics,gpt-3-0-vanila,E2,1,1,1,1,X,X
+Advanced,Physics,gpt-3-0-vanila,E2,3,1,2,1,X,X
+Elementary,Biology,gpt-3-10-augmented,E2,5,4,5,5,O,O
+Elementary,Biology,gpt-3-10-augmented,E2,5,5,4,4,O,O
+Elementary,Biology,gpt-3-10-augmented,E2,5,4,5,4,O,X
+Elementary,Biology,gpt-3-10-augmented,E2,5,4,4,4,O,X
+Elementary,Biology,gpt-3-10-augmented,E2,5,4,3,4,X,X
+Intermediate,Biology,gpt-3-10-augmented,E2,4,4,3,3,X,X
+Intermediate,Biology,gpt-3-10-augmented,E2,4,3,4,3,X,X
+Intermediate,Biology,gpt-3-10-augmented,E2,4,3,3,3,X,X
+Intermediate,Biology,gpt-3-10-augmented,E2,3,2,2,1,X,X
+Intermediate,Biology,gpt-3-10-augmented,E2,5,5,4,5,O,O
+Advanced,Biology,gpt-3-10-augmented,E2,4,5,5,5,O,O
+Advanced,Biology,gpt-3-10-augmented,E2,4,4,5,4,O,X
+Advanced,Biology,gpt-3-10-augmented,E2,5,5,4,4,O,O
+Advanced,Biology,gpt-3-10-augmented,E2,5,4,5,4,O,X
+Advanced,Biology,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-augmented,E2,5,4,5,3,X,X
+Elementary,Chemistry,gpt-3-10-augmented,E2,4,3,2,3,x ,o
+Elementary,Chemistry,gpt-3-10-augmented,E2,5,2,1,3,x,o
+Elementary,Chemistry,gpt-3-10-augmented,E2,4,3,2,2,x,o
+Elementary,Chemistry,gpt-3-10-augmented,E2,4,3,2,2,x,o
+Intermediate,Chemistry,gpt-3-10-augmented,E2,5,4,1,1,x,o
+Intermediate,Chemistry,gpt-3-10-augmented,E2,5,2,3,1,x,o
+Intermediate,Chemistry,gpt-3-10-augmented,E2,5,2,1,2,o,o
+Intermediate,Chemistry,gpt-3-10-augmented,E2,3,2,1,2,o,o
+Intermediate,Chemistry,gpt-3-10-augmented,E2,4,3,2,1,x,o
+Advanced,Chemistry,gpt-3-10-augmented,E2,1,2,3,2,o,o
+Advanced,Chemistry,gpt-3-10-augmented,E2,2,3,1,4,x,o
+Advanced,Chemistry,gpt-3-10-augmented,E2,4,2,2,1,x,o
+Advanced,Chemistry,gpt-3-10-augmented,E2,1,3,2,1,o,o
+Advanced,Chemistry,gpt-3-10-augmented,E2,5,4,2,3,x,o
+Elementary,Physics,gpt-3-10-augmented,E2,5,4,5,5,X,O
+Elementary,Physics,gpt-3-10-augmented,E2,4,3,4,4,X,X
+Elementary,Physics,gpt-3-10-augmented,E2,3,2,3,3,X,X
+Elementary,Physics,gpt-3-10-augmented,E2,1,1,1,1,X,X
+Elementary,Physics,gpt-3-10-augmented,E2,4,4,5,5,O,O
+Intermediate,Physics,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Intermediate,Physics,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Intermediate,Physics,gpt-3-10-augmented,E2,2,1,1,2,X,X
+Intermediate,Physics,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Intermediate,Physics,gpt-3-10-augmented,E2,2,1,1,2,X,X
+Advanced,Physics,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Advanced,Physics,gpt-3-10-augmented,E2,5,5,5,5,O,O
+Advanced,Physics,gpt-3-10-augmented,E2,3,4,3,2,x,x
+Advanced,Physics,gpt-3-10-augmented,E2,4,5,4,4,X,O
+Advanced,Physics,gpt-3-10-augmented,E2,1,2,1,1,O,O
+Elementary,Biology,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Elementary,Biology,gpt-3-10-vanila,E2,5,4,4,4,O,X
+Elementary,Biology,gpt-3-10-vanila,E2,5,4,3,4,O,X
+Elementary,Biology,gpt-3-10-vanila,E2,5,4,3,3,X,X
+Elementary,Biology,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Intermediate,Biology,gpt-3-10-vanila,E2,5,4,5,5,O,X
+Intermediate,Biology,gpt-3-10-vanila,E2,5,4,3,3,O,X
+Intermediate,Biology,gpt-3-10-vanila,E2,5,4,4,3,O,X
+Intermediate,Biology,gpt-3-10-vanila,E2,4,3,4,3,X,X
+Intermediate,Biology,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E2,5,4,4,4,O,X
+Advanced,Biology,gpt-3-10-vanila,E2,4,3,3,2,X,X
+Advanced,Biology,gpt-3-10-vanila,E2,4,3,2,2,X,X
+Advanced,Biology,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Advanced,Biology,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E2,5,5,4,4,O,X
+Elementary,Chemistry,gpt-3-10-vanila,E2,5,5,4,4,X,X
+Elementary,Chemistry,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Elementary,Chemistry,gpt-3-10-vanila,E2,4,4,5,4,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E2,3,4,3,3,X,X
+Intermediate,Chemistry,gpt-3-10-vanila,E2,5,4,4,5,O,O
+Intermediate,Chemistry,gpt-3-10-vanila,E2,5,4,5,5,O,X
+Intermediate,Chemistry,gpt-3-10-vanila,E2,4,3,3,4,X,X
+Intermediate,Chemistry,gpt-3-10-vanila,E2,4,3,3,4,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E2,4,3,4,3,O,X
+Advanced,Chemistry,gpt-3-10-vanila,E2,5,5,4,4,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E2,4,3,4,3,X,X
+Advanced,Chemistry,gpt-3-10-vanila,E2,5,5,5,5,O,O
+Advanced,Chemistry,gpt-3-10-vanila,E2,4,3,2,2,X,X
+Elementary,Physics,gpt-3-10-vanila,E2,5,2,4,3,x,o
+Elementary,Physics,gpt-3-10-vanila,E2,5,4,4,4,x,x
+Elementary,Physics,gpt-3-10-vanila,E2,4,3,2,3,o,o
+Elementary,Physics,gpt-3-10-vanila,E2,5,3,2,1,x,o
+Elementary,Physics,gpt-3-10-vanila,E2,5,4,5,3,x,x
+Intermediate,Physics,gpt-3-10-vanila,E2,4,3,3,2,x,o
+Intermediate,Physics,gpt-3-10-vanila,E2,1,2,3,2,o,o
+Intermediate,Physics,gpt-3-10-vanila,E2,5,3,2,2,x,o
+Intermediate,Physics,gpt-3-10-vanila,E2,4,3,2,1,x,o
+Intermediate,Physics,gpt-3-10-vanila,E2,5,3,4,1,x,x
+Advanced,Physics,gpt-3-10-vanila,E2,1,2,4,2,o,o
+Advanced,Physics,gpt-3-10-vanila,E2,2,1,2,2,o ,o 
+Advanced,Physics,gpt-3-10-vanila,E2,2,1,1,2,o,o
+Advanced,Physics,gpt-3-10-vanila,E2,4,2,3,1,x,o
+Advanced,Physics,gpt-3-10-vanila,E2,4,3,3,3,x,x
+Elementary,Astronomy,gpt-3-0-vanila,E3,3,3,3,3,X,X
+Elementary,Astronomy,gpt-3-0-vanila,E3,4,4,4,4,O,X
+Elementary,Astronomy,gpt-3-0-vanila,E3,2,1,1,1,X,X
+Elementary,Astronomy,gpt-3-0-vanila,E3,2,1,1,1,X,X
+Elementary,Astronomy,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E3,2,3,3,3,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E3,3,3,3,3,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E3,4,2,2,2,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E3,4,3,3,3,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E3,3,2,2,2,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Elementary,Computer Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Intermediate,Computer Science,gpt-3-0-vanila,E3,4,4,4,4,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Intermediate,Computer Science,gpt-3-0-vanila,E3,3,3,3,3,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E3,4,4,4,4,O,O
+Advanced,Computer Science,gpt-3-0-vanila,E3,4,5,4,4,O,O
+Advanced,Computer Science,gpt-3-0-vanila,E3,2,1,1,1,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E3,3,4,4,4,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E3,2,2,2,1,X,X
+Elementary,Earth Science,gpt-3-0-vanila,E3,2,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Intermediate,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E3,1,1,1,1,X,X
+Advanced,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E3,1,1,1,1,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E3,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-0-vanila,E3,1,2,1,1,X,X
+Elementary,Astronomy,gpt-3-10-augmented,E3,5,4,4,4,O,X
+Elementary,Astronomy,gpt-3-10-augmented,E3,5,4,4,4,O,X
+Elementary,Astronomy,gpt-3-10-augmented,E3,5,4,4,4,O,X
+Elementary,Astronomy,gpt-3-10-augmented,E3,5,4,4,4,O,X
+Elementary,Astronomy,gpt-3-10-augmented,E3,5,4,4,4,O,X
+Intermediate,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E3,4,4,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E3,3,3,3,3,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E3,3,2,2,2,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E3,3,3,3,3,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E3,2,1,1,1,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E3,3,2,1,1,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E3,3,3,3,3,O,X
+Intermediate,Computer Science,gpt-3-10-augmented,E3,3,4,4,4,O,X
+Advanced,Computer Science,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E3,2,2,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E3,1,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E3,4,3,2,2,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E3,2,3,3,3,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E3,4,3,2,2,X,X
+Elementary,Earth Science,gpt-3-10-augmented,E3,4,3,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E3,4,4,4,4,O,X
+Intermediate,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Intermediate,Earth Science,gpt-3-10-augmented,E3,4,4,4,4,O,X
+Intermediate,Earth Science,gpt-3-10-augmented,E3,4,4,4,4,O,X
+Intermediate,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E3,3,4,3,3,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E3,4,4,4,4,O,X
+Advanced,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Advanced,Earth Science,gpt-3-10-augmented,E3,3,1,1,1,X,X
+Elementary,Astronomy,gpt-3-10-vanila,E3,3,2,3,2,X,X
+Elementary,Astronomy,gpt-3-10-vanila,E3,3,2,3,2,X,X
+Elementary,Astronomy,gpt-3-10-vanila,E3,3,2,3,2,X,X
+Elementary,Astronomy,gpt-3-10-vanila,E3,3,2,3,2,X,X
+Elementary,Astronomy,gpt-3-10-vanila,E3,3,2,3,2,X,X
+Intermediate,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-vanila,E3,3,4,3,3,O,X
+Intermediate,Astronomy,gpt-3-10-vanila,E3,2,2,2,2,X,X
+Intermediate,Astronomy,gpt-3-10-vanila,E3,3,4,3,3,O,X
+Advanced,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Elementary,Computer Science,gpt-3-10-vanila,E3,5,4,4,4,X,X
+Elementary,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Elementary,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Elementary,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Elementary,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Intermediate,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Intermediate,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Intermediate,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Intermediate,Computer Science,gpt-3-10-vanila,E3,5,5,5,5,O,X
+Intermediate,Computer Science,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-vanila,E3,5,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-vanila,E3,5,5,1,1,X,X
+Advanced,Computer Science,gpt-3-10-vanila,E3,5,5,1,1,X,X
+Advanced,Computer Science,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E3,3,2,2,2,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E3,1,1,1,1,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E3,3,2,2,2,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E3,3,2,2,2,X,X
+Elementary,Earth Science,gpt-3-10-vanila,E3,2,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E3,4,4,4,4,O,O
+Intermediate,Earth Science,gpt-3-10-vanila,E3,3,3,3,3,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E3,3,3,3,3,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E3,2,2,2,2,X,X
+Intermediate,Earth Science,gpt-3-10-vanila,E3,4,4,4,4,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E3,2,2,2,2,X,X
+Advanced,Earth Science,gpt-3-10-vanila,E3,4,4,4,4,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E3,4,4,4,4,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E3,5,5,5,5,O,O
+Advanced,Earth Science,gpt-3-10-vanila,E3,5,5,5,5,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E4,3,3,4,4,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E4,5,3,4,3,X,O
+Elementary,Astronomy,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E4,4,3,3,4,O,O
+Intermediate,Astronomy,gpt-3-0-vanila,E4,4,4,3,3,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Intermediate,Astronomy,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Intermediate,Astronomy,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Intermediate,Astronomy,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Advanced,Astronomy,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-0-vanila,E4,5,5,5,4,O,O
+Advanced,Astronomy,gpt-3-0-vanila,E4,4,3,4,3,O,O
+Advanced,Astronomy,gpt-3-0-vanila,E4,4,4,4,3,O,O
+Elementary,Computer Science,gpt-3-0-vanila,E4,4,3,4,4,O,O
+Elementary,Computer Science,gpt-3-0-vanila,E4,5,3,4,3,X,O
+Elementary,Computer Science,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Elementary,Computer Science,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Elementary,Computer Science,gpt-3-0-vanila,E4,4,3,3,4,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E4,4,4,3,3,X,X
+Intermediate,Computer Science,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Advanced,Computer Science,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-0-vanila,E4,5,5,5,4,O,O
+Advanced,Computer Science,gpt-3-0-vanila,E4,4,3,4,3,O,O
+Advanced,Computer Science,gpt-3-0-vanila,E4,4,4,4,3,O,O
+Elementary,Physics,gpt-3-0-vanila,E4,4,3,4,4,O,O
+Elementary,Physics,gpt-3-0-vanila,E4,5,3,4,3,X,O
+Elementary,Physics,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Elementary,Physics,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Elementary,Physics,gpt-3-0-vanila,E4,4,3,3,4,O,O
+Intermediate,Physics,gpt-3-0-vanila,E4,4,4,3,3,O,X
+Intermediate,Physics,gpt-3-0-vanila,E4,4,4,4,4,O,O
+Intermediate,Physics,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Intermediate,Physics,gpt-3-0-vanila,E4,4,5,4,4,O,O
+Intermediate,Physics,gpt-3-0-vanila,E4,4,4,3,4,O,O
+Advanced,Physics,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-0-vanila,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-0-vanila,E4,5,5,5,4,O,O
+Advanced,Physics,gpt-3-0-vanila,E4,4,3,4,3,O,O
+Advanced,Physics,gpt-3-0-vanila,E4,4,4,4,3,O,O
+Elementary,Astronomy,gpt-3-10-augmented,E4,3,3,4,4,O,O
+Elementary,Astronomy,gpt-3-10-augmented,E4,5,3,4,3,X,O
+Elementary,Astronomy,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Elementary,Astronomy,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Elementary,Astronomy,gpt-3-10-augmented,E4,4,3,3,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E4,4,4,3,3,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Advanced,Astronomy,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-10-augmented,E4,5,5,5,4,O,O
+Advanced,Astronomy,gpt-3-10-augmented,E4,4,3,4,3,O,O
+Advanced,Astronomy,gpt-3-10-augmented,E4,4,4,4,3,O,O
+Elementary,Computer Science,gpt-3-10-augmented,E4,4,3,4,4,O,O
+Elementary,Computer Science,gpt-3-10-augmented,E4,5,3,4,3,X,O
+Elementary,Computer Science,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Elementary,Computer Science,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Elementary,Computer Science,gpt-3-10-augmented,E4,4,3,3,4,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E4,4,4,3,3,O,X
+Intermediate,Computer Science,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Advanced,Computer Science,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-10-augmented,E4,5,5,5,4,O,O
+Advanced,Computer Science,gpt-3-10-augmented,E4,4,3,4,3,O,O
+Advanced,Computer Science,gpt-3-10-augmented,E4,4,4,4,3,O,O
+Elementary,Physics,gpt-3-10-augmented,E4,4,3,4,4,O,O
+Elementary,Physics,gpt-3-10-augmented,E4,5,3,4,3,X,O
+Elementary,Physics,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Elementary,Physics,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Elementary,Physics,gpt-3-10-augmented,E4,4,3,3,4,O,O
+Intermediate,Physics,gpt-3-10-augmented,E4,4,4,3,3,X,X
+Intermediate,Physics,gpt-3-10-augmented,E4,4,4,4,4,O,O
+Intermediate,Physics,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Intermediate,Physics,gpt-3-10-augmented,E4,4,5,4,4,O,O
+Intermediate,Physics,gpt-3-10-augmented,E4,4,4,3,4,O,O
+Advanced,Physics,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-10-augmented,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-10-augmented,E4,5,5,5,4,O,O
+Advanced,Physics,gpt-3-10-augmented,E4,4,3,4,3,O,O
+Advanced,Physics,gpt-3-10-augmented,E4,4,4,4,3,O,O
+Elementary,Astronomy,gpt-3-10-vanila,E4,4,3,4,4,O,O
+Elementary,Astronomy,gpt-3-10-vanila,E4,5,3,4,3,X,O
+Elementary,Astronomy,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Elementary,Astronomy,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Elementary,Astronomy,gpt-3-10-vanila,E4,4,3,3,4,O,O
+Intermediate,Astronomy,gpt-3-10-vanila,E4,4,4,3,3,O,X
+Intermediate,Astronomy,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Intermediate,Astronomy,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Advanced,Astronomy,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Astronomy,gpt-3-10-vanila,E4,5,5,5,4,O,O
+Advanced,Astronomy,gpt-3-10-vanila,E4,4,3,4,3,O,O
+Advanced,Astronomy,gpt-3-10-vanila,E4,4,4,4,3,O,O
+Elementary,Computer Science,gpt-3-10-vanila,E4,4,3,4,4,O,O
+Elementary,Computer Science,gpt-3-10-vanila,E4,5,3,4,3,X,O
+Elementary,Computer Science,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Elementary,Computer Science,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Elementary,Computer Science,gpt-3-10-vanila,E4,4,3,3,4,O,O
+Intermediate,Computer Science,gpt-3-10-vanila,E4,4,4,3,3,X,X
+Intermediate,Computer Science,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Intermediate,Computer Science,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Intermediate,Computer Science,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Intermediate,Computer Science,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Advanced,Computer Science,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Computer Science,gpt-3-10-vanila,E4,5,5,5,4,O,O
+Advanced,Computer Science,gpt-3-10-vanila,E4,4,3,4,3,O,O
+Advanced,Computer Science,gpt-3-10-vanila,E4,4,4,4,3,O,O
+Elementary,Physics,gpt-3-10-vanila,E4,4,3,4,4,O,O
+Elementary,Physics,gpt-3-10-vanila,E4,5,3,4,3,X,O
+Elementary,Physics,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Elementary,Physics,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Elementary,Physics,gpt-3-10-vanila,E4,4,3,3,4,O,O
+Intermediate,Physics,gpt-3-10-vanila,E4,4,4,3,3,O,O
+Intermediate,Physics,gpt-3-10-vanila,E4,4,4,4,4,O,O
+Intermediate,Physics,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Intermediate,Physics,gpt-3-10-vanila,E4,4,5,4,4,O,O
+Intermediate,Physics,gpt-3-10-vanila,E4,4,4,3,4,O,O
+Advanced,Physics,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-10-vanila,E4,4,3,3,3,X,O
+Advanced,Physics,gpt-3-10-vanila,E4,5,5,5,4,O,O
+Advanced,Physics,gpt-3-10-vanila,E4,4,3,4,3,O,O
+Advanced,Physics,gpt-3-10-vanila,E4,4,4,4,3,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E6,4,3,3,4,X,X
+Elementary,Astronomy,gpt-3-0-vanila,E6,4,3,3,3,O,O
+Elementary,Astronomy,gpt-3-0-vanila,E6,2,2,2,2,X,O
+Elementary,Astronomy,gpt-3-0-vanila,E6,2,2,2,2,X,X
+Elementary,Astronomy,gpt-3-0-vanila,E6,4,5,5,5,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E6,3,3,2,2,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E6,4,4,3,2,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E6,3,2,2,2,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E6,2,4,2,1,X,X
+Intermediate,Astronomy,gpt-3-0-vanila,E6,3,2,2,1,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E6,3,3,3,3,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E6,4,4,3,3,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-0-vanila,E6,2,2,2,2,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E6,2,2,1,2,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E6,5,3,4,4,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E6,4,3,3,3,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E6,3,3,2,2,X,X
+Elementary,Computer Science,gpt-3-0-vanila,E6,3,2,3,3,X,X
+Intermediate,Computer Science,gpt-3-0-vanila,E6,1,1,1,1,1,1
+Intermediate,Computer Science,gpt-3-0-vanila,E6,5,4,5,5,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E6,5,4,5,5,O,O
+Intermediate,Computer Science,gpt-3-0-vanila,E6,5,4,5,5,O,X
+Intermediate,Computer Science,gpt-3-0-vanila,E6,5,4,5,5,O,X
+Advanced,Computer Science,gpt-3-0-vanila,E6,2,1,2,1,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E6,2,1,1,1,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Elementary,Physics,gpt-3-0-vanila,E6,3,2,2,2,X,X
+Elementary,Physics,gpt-3-0-vanila,E6,2,2,2,1,X,X
+Elementary,Physics,gpt-3-0-vanila,E6,2,5,3,1,X,X
+Elementary,Physics,gpt-3-0-vanila,E6,1,2,1,1,X,X
+Elementary,Physics,gpt-3-0-vanila,E6,4,3,2,2,O,O
+Intermediate,Physics,gpt-3-0-vanila,E6,2,2,1,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E6,3,3,2,2,X,X
+Intermediate,Physics,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E6,2,2,1,1,X,X
+Intermediate,Physics,gpt-3-0-vanila,E6,2,2,1,1,X,X
+Advanced,Physics,gpt-3-0-vanila,E6,2,3,1,1,X,X
+Advanced,Physics,gpt-3-0-vanila,E6,1,3,1,1,X,X
+Advanced,Physics,gpt-3-0-vanila,E6,1,1,1,1,X,X
+Advanced,Physics,gpt-3-0-vanila,E6,4,3,4,4,X,X
+Advanced,Physics,gpt-3-0-vanila,E6,3,1,2,2,X,X
+Elementary,Astronomy,gpt-3-10-augmented,E6,5,4,3,5,X,O
+Elementary,Astronomy,gpt-3-10-augmented,E6,5,3,2,3,X,X
+Elementary,Astronomy,gpt-3-10-augmented,E6,3,1,1,2,X,X
+Elementary,Astronomy,gpt-3-10-augmented,E6,3,2,2,2,X,X
+Elementary,Astronomy,gpt-3-10-augmented,E6,4,3,3,3,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E6,5,3,5,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E6,5,3,4,4,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E6,5,4,4,4,O,O
+Intermediate,Astronomy,gpt-3-10-augmented,E6,2,3,1,1,X,X
+Intermediate,Astronomy,gpt-3-10-augmented,E6,1,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E6,2,1,1,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E6,4,3,3,3,O,O
+Advanced,Astronomy,gpt-3-10-augmented,E6,3,3,2,2,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E6,2,1,2,1,X,X
+Advanced,Astronomy,gpt-3-10-augmented,E6,1,1,1,1,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E6,4,3,2,3,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E6,4,4,3,4,O,X
+Elementary,Computer Science,gpt-3-10-augmented,E6,4,4,4,4,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E6,5,4,3,3,X,X
+Elementary,Computer Science,gpt-3-10-augmented,E6,4,4,4,4,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E6,4,3,3,3,O,X
+Intermediate,Computer Science,gpt-3-10-augmented,E6,2,1,2,2,X,X
+Intermediate,Computer Science,gpt-3-10-augmented,E6,5,4,5,5,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E6,5,4,5,4,O,O
+Intermediate,Computer Science,gpt-3-10-augmented,E6,3,3,4,4,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E6,3,2,3,3,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E6,2,2,1,3,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E6,1,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E6,2,1,1,1,X,X
+Advanced,Computer Science,gpt-3-10-augmented,E6,5,5,5,5,O,O
+Elementary,Physics,gpt-3-10-augmented,E6,2,3,1,1,x,x
+Elementary,Physics,gpt-3-10-augmented,E6,2,2,1,1,x,x
+Elementary,Physics,gpt-3-10-augmented,E6,2,2,1,1,x,x
+Elementary,Physics,gpt-3-10-augmented,E6,2,2,1,1,x,x
+Elementary,Physics,gpt-3-10-augmented,E6,2,2,2,2,x,x
+Intermediate,Physics,gpt-3-10-augmented,E6,2,2,2,2,x,x
+Intermediate,Physics,gpt-3-10-augmented,E6,2,2,2,1,x,x
+Intermediate,Physics,gpt-3-10-augmented,E6,3,3,3,3,x,x
+Intermediate,Physics,gpt-3-10-augmented,E6,1,1,1,1,x,x
+Intermediate,Physics,gpt-3-10-augmented,E6,3,3,3,3,x,x
+Advanced,Physics,gpt-3-10-augmented,E6,1,4,4,1,x,x
+Advanced,Physics,gpt-3-10-augmented,E6,3,3,2,1,x,x
+Advanced,Physics,gpt-3-10-augmented,E6,2,2,1,1,x,x
+Advanced,Physics,gpt-3-10-augmented,E6,2,1,1,1,x,x
+Advanced,Physics,gpt-3-10-augmented,E6,2,1,1,1,x,x
+Elementary,Astronomy,gpt-3-10-vanila,E6,3,2,3,3,x,x
+Elementary,Astronomy,gpt-3-10-vanila,E6,3,2,3,3,x,x
+Elementary,Astronomy,gpt-3-10-vanila,E6,3,2,3,3,x,x
+Elementary,Astronomy,gpt-3-10-vanila,E6,3,2,3,3,x,x
+Elementary,Astronomy,gpt-3-10-vanila,E6,3,3,3,4,x,x
+Intermediate,Astronomy,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Intermediate,Astronomy,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Intermediate,Astronomy,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Intermediate,Astronomy,gpt-3-10-vanila,E6,3,2,2,1,x,x
+Intermediate,Astronomy,gpt-3-10-vanila,E6,1,2,1,1,x,x
+Advanced,Astronomy,gpt-3-10-vanila,E6,1,2,3,1,x,x
+Advanced,Astronomy,gpt-3-10-vanila,E6,1,1,2,2,x,x
+Advanced,Astronomy,gpt-3-10-vanila,E6,2,1,4,1,x,x
+Advanced,Astronomy,gpt-3-10-vanila,E6,2,1,4,1,x,x
+Advanced,Astronomy,gpt-3-10-vanila,E6,2,1,4,1,x,x
+Elementary,Computer Science,gpt-3-10-vanila,E6,3,3,3,3,X,X
+Elementary,Computer Science,gpt-3-10-vanila,E6,4,2,2,2,x,x
+Elementary,Computer Science,gpt-3-10-vanila,E6,3,2,2,2,x,x
+Elementary,Computer Science,gpt-3-10-vanila,E6,3,3,3,4,o,x
+Elementary,Computer Science,gpt-3-10-vanila,E6,4,3,3,3,o,x
+Intermediate,Computer Science,gpt-3-10-vanila,E6,3,2,2,2,x,x
+Intermediate,Computer Science,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Intermediate,Computer Science,gpt-3-10-vanila,E6,3,4,4,4,x,x
+Intermediate,Computer Science,gpt-3-10-vanila,E6,4,3,3,3,x,x
+Intermediate,Computer Science,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Advanced,Computer Science,gpt-3-10-vanila,E6,1,1,1,1,x,x
+Advanced,Computer Science,gpt-3-10-vanila,E6,4,4,4,5,o,X
+Advanced,Computer Science,gpt-3-10-vanila,E6,2,2,4,1,x,x
+Advanced,Computer Science,gpt-3-10-vanila,E6,2,2,4,1,x,x
+Advanced,Computer Science,gpt-3-10-vanila,E6,3,2,3,3,o,x
+Elementary,Physics,gpt-3-10-vanila,E6,4,4,5,5,o,x
+Elementary,Physics,gpt-3-10-vanila,E6,3,2,2,2,x,x
+Elementary,Physics,gpt-3-10-vanila,E6,1,2,2,2,x,x
+Elementary,Physics,gpt-3-10-vanila,E6,2,3,3,1,x,x
+Elementary,Physics,gpt-3-10-vanila,E6,3,2,2,2,x,x
+Intermediate,Physics,gpt-3-10-vanila,E6,3,4,4,1,x,x
+Intermediate,Physics,gpt-3-10-vanila,E6,2,2,2,2,x,x
+Intermediate,Physics,gpt-3-10-vanila,E6,2,3,3,1,x,x
+Intermediate,Physics,gpt-3-10-vanila,E6,3,3,4,2,o,o
+Intermediate,Physics,gpt-3-10-vanila,E6,4,4,4,5,o,x
+Advanced,Physics,gpt-3-10-vanila,E6,1,4,1,1,x,x
+Advanced,Physics,gpt-3-10-vanila,E6,5,4,5,5,o,o
+Advanced,Physics,gpt-3-10-vanila,E6,1,4,1,1,x,x
+Advanced,Physics,gpt-3-10-vanila,E6,1,4,1,1,x,x
+Advanced,Physics,gpt-3-10-vanila,E6,1,4,1,1,x,x
