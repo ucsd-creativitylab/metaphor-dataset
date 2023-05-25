@@ -53,4 +53,16 @@ This section will be added after the blind review process.
 
 ## Citations
 
-This section will be added after the blind review process.
+```
+Jeongyeon Kim, Sangho Suh, Lydia Chilton, and Haijun Xia. "Metaphorian: Leveraging Large Language Models to Support Extended Metaphor Creation for Science Writing." In Designing Interactive Systems Conference, pp. 41-57. 2023.
+```
+
+```
+@inproceedings{kim2023metaphorian,
+  title={Metaphorian: Leveraging Large Language Models to Support Extended Metaphor Creation for Science Writing},
+  author={Kim, Jeongyeon and Suh, Sangho and Chilton, Lydia and Xia, Haijun},
+  booktitle={Designing Interactive Systems Conference},
+  pages={41--57},
+  year={2023}
+}
+```
